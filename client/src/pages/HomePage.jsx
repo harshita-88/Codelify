@@ -25,7 +25,7 @@ function HomePage() {
                     {isLoaded && (
                         <img
                             src={illustration}
-                            alt="Code Sync Illustration"
+                            alt="Codelify Illustration"
                             className="mx-auto w-[250px] sm:w-[400px]"
                         />
                     )}

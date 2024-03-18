@@ -1,8 +1,8 @@
-# Code Sync - A Realtime Code Editor
+# Codelify - A Realtime Code Editor
 
 ![screenshot](./screenshots/preview.png)
 
-Code Sync is a collaborative, real-time code editor where users can seamlessly code together. It provides a platform for multiple users to enter a room, share a unique room ID, and collaborate on code simultaneously.
+Codelify is a collaborative, real-time code editor where users can seamlessly code together. It provides a platform for multiple users to enter a room, share a unique room ID, and collaborate on code simultaneously.
 
 ## 🔮 Features
 
@@ -22,7 +22,7 @@ Code Sync is a collaborative, real-time code editor where users can seamlessly c
 
 ## 🚀 Live Preview
 
-You can view the live preview of the project [here](https://code-sync-live.vercel.app/).
+You can view the live preview of the project [here](https://codelify-live.vercel.app/).
 
 ## 💻 Tech Stack
 
@@ -144,7 +144,7 @@ README.md
 1. **Fork this repository:** Click the Fork button located in the top-right corner of this page to fork the repository.
 2. **Clone the repository:**
    ```bash
-   git clone https://github.com/<your-username>/Code-Sync.git
+   git clone https://github.com/<your-username>/Codelify.git
    ```
 3. **Set .env file:**
    Inside the client and server directory, create or edit the .env file and add the following line:  
@@ -189,7 +189,7 @@ README.md
 
 ## 🤝 Contribute
 
-We welcome contributions to make Code Sync even better! Whether you're reporting a bug, suggesting a new feature, or fixing a typo, your input is valuable to us. Follow the [contribution guidelines](CONTRIBUTING.md) to get started.
+We welcome contributions to make Codelify even better! Whether you're reporting a bug, suggesting a new feature, or fixing a typo, your input is valuable to us. Follow the [contribution guidelines](CONTRIBUTING.md) to get started.
 
 ## 🌟 Support Us
 

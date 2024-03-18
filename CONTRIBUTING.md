@@ -1,8 +1,8 @@
-# Contributing to Code Sync
+# Contributing to CodeLify
 
-We welcome contributions to the Code Sync project! Whether you're reporting a bug, suggesting a new feature, or fixing a typo, your input is valuable to us. Here are some guidelines to help you get started:
+We welcome contributions to the Codelify project! Whether you're reporting a bug, suggesting a new feature, or fixing a typo, your input is valuable to us. Here are some guidelines to help you get started:
 
-Thank you for considering contributing to code sync! Follow the steps below to contribute:
+Thank you for considering contributing to codelify ! Follow the steps below to contribute:
 
 ## Getting Started
 
@@ -10,10 +10,11 @@ Thank you for considering contributing to code sync! Follow the steps below to c
 
 2. **Clone the Repository:** Clone your forked repository to your local machine:
    ```bash
-   git clone https://github.com/<your_username>/Code-Sync.git
+   git clone https://github.com/<your_username>/Codelify.git
    ```
 
 ## Making Changes
+
 1. **Implement Your Contribution:** Make your changes, ensuring they align with the project's goals.
 2. **Test Your Changes:** Test thoroughly to ensure everything works as expected.
 3. **Switch to Your Branch:** Before making changes, switch to your feature branch:
@@ -21,16 +22,17 @@ Thank you for considering contributing to code sync! Follow the steps below to c
    git checkout <your_branch_name>
    ```
 4. **Commit Changes:** Commit your changes with a clear message:
-    ```bash
-    git add .
-    git commit -m "Add a description of your changes"
-    ```
+   ```bash
+   git add .
+   git commit -m "Add a description of your changes"
+   ```
 5. **Push Changes:** Push your changes to your forked repository:
    ```bash
    git push origin <your_branch_name>
    ```
 
 ## Submitting a Pull Request
+
 1. **Create a Pull Request:** Go to your forked repository on GitHub, create a new Pull Request with a clear title and description.
 2. **Describe Changes:** Clearly describe the changes you made and why they are valuable.
 3. **Review:** Your PR will be reviewed by project maintainers. Be responsive to feedback.
@@ -38,13 +40,13 @@ Thank you for considering contributing to code sync! Follow the steps below to c
 
 ## Reporting Bugs
 
-If you find a bug while using Code Sync, please report it by opening an issue on Github. Please include the following information:
+If you find a bug while using Codelify, please report it by opening an issue on Github. Please include the following information:
 
-* Description of the bug
-* Steps to reproduce the bug
-* Screenshots or videos demonstrating the bug, if possible
-* The expected outcome vs. the actual outcome
-* Any other relevant information, such as the operating system and browser version you are using.
+- Description of the bug
+- Steps to reproduce the bug
+- Screenshots or videos demonstrating the bug, if possible
+- The expected outcome vs. the actual outcome
+- Any other relevant information, such as the operating system and browser version you are using.
 
 ## Suggesting New Features
 
@@ -56,7 +58,7 @@ If you notice a spelling mistake or grammatical error in the project's documenta
 
 ## Thank You!
 
-Thank you for contributing to Code Sync! Your efforts make a difference.
+Thank you for contributing to Codelify! Your efforts make a difference.
 If you have questions or need assistance, contact the project maintainers.
 
 Happy contributing!
