@@ -1,6 +1,6 @@
 {
-    "name": "code-sync-client",
-    "private": true,
+    "name": "codelify-client",
+    "private": false,
     "version": "0.0.0",
     "type": "module",
     "scripts": {
